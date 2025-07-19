@@ -67,4 +67,16 @@ margin-right: 40px;
 
 }
 
+/* sponsors section */
+.sponsors{margin-top: 100px;
+text-align: center;
+margin-left: 140px;
+margin-right: 140px;
+box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1), 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.logo{padding: 18px;
+    width: 78px;
+}
+
 
