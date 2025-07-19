@@ -18,6 +18,8 @@
     font-weight: bold;
 }
 
+.nav-link:hover{color: rgb(163, 176, 176);}
+
 .nav-item{list-style: none;
 font-size:16px ;
 font-weight: 600;}
@@ -43,6 +45,8 @@ margin-right: 34px;}
     font-weight: 600;
     margin-top: 16px;
 }
+
+.btn-primary:hover{color: rgb(110, 105, 98) }
 
 .btn-primary{background-color: rgba(224, 44, 109, 1) ;
 color: rgba(255, 255, 255, 1);
