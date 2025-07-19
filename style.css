@@ -1,0 +1,28 @@
+/* common use */
+.display-flex{display: flex;}
+
+.color{
+    color: rgba(58, 58, 58, 1);
+}
+
+
+/* nav section */
+.navbar{
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.brand{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-item{list-style: none;
+font-size:16px ;
+font-weight: 600;}
+
+.nav-link{text-decoration: none;
+margin-right: 34px;}
+
+/* banner section */
