@@ -14,45 +14,45 @@
 }
 
 .brand{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 
 .nav-link:hover{color: rgb(163, 176, 176);}
 
 .nav-item{list-style: none;
-font-size:16px ;
+font-size: 1rem ;
 font-weight: 600;}
 
 .nav-link{text-decoration: none;
-margin-right: 34px;}
+margin-right: 2.125rem;}
 
 /* banner section */
 
 .banner{
      justify-content: space-between;
-     margin-right: 30px;
+     margin-right: 1.875rem;
 }
 
 .banner-content{
-    font-size: 52px;
+    font-size: 3.25rem;
     font-weight: 800;
-    margin-top: 142px;
+    margin-top: 8.875rem;
 }
 
 .banner-description{
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
-    margin-top: 16px;
+    margin-top: 1rem;
 }
 
 .btn-primary:hover{color: rgb(110, 105, 98) }
 
 .btn-primary{background-color: rgba(224, 44, 109, 1) ;
 color: rgba(255, 255, 255, 1);
-margin-top: 16px;
+margin-top: 1rem;
 padding: 10px 30px 10px 24px ;
-font-size: 16px;
+font-size: 1rem;
 font-weight: 700;
 border-radius: 41px;
 border: none;
@@ -62,21 +62,21 @@ border: none;
     position: relative;
     background-image: url(images/Circle\ design.svg);
       background-size: cover;
-margin-top: 80px;
-margin-right: 40px;
+margin-top: 5rem;
+margin-right: 2.5rem;
 
 }
 
 /* sponsors section */
-.sponsors{margin-top: 100px;
+.sponsors{margin-top: 6.25rem;
 text-align: center;
-margin-left: 140px;
-margin-right: 140px;
+margin-left: 8.75rem;
+margin-right: 8.75rem;
 box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1), 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 
-.logo{padding: 18px;
-    width: 78px;
+.logo{padding: 1.125rem;
+    width: 4.875rem;
 }
 
 
