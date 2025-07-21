@@ -95,11 +95,13 @@ height: 256px;
 background-color: rgba(255, 255, 255, 1);
 height: 380px;
 box-shadow: -3px 5px 5px 5px rgba(0,0,0,0.2);
-border-radius: 7px
+border-radius: 7px;
+transition: width 0.5s, background-color 0.5s ;
 }
 
 .card:hover{ width: 300px;
-background-color: rgb(172, 211, 200);}
+background-color: rgb(172, 211, 200);
+}
 
 .products{
     margin-top: 70px;
